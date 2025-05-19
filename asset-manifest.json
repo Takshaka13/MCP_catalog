@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MCP_catalog/static/css/main.24a1119b.css",
+    "main.js": "/MCP_catalog/static/js/main.7d995921.js",
+    "static/js/453.8840ddcb.chunk.js": "/MCP_catalog/static/js/453.8840ddcb.chunk.js",
+    "index.html": "/MCP_catalog/index.html",
+    "main.24a1119b.css.map": "/MCP_catalog/static/css/main.24a1119b.css.map",
+    "main.7d995921.js.map": "/MCP_catalog/static/js/main.7d995921.js.map",
+    "453.8840ddcb.chunk.js.map": "/MCP_catalog/static/js/453.8840ddcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a1119b.css",
+    "static/js/main.7d995921.js"
+  ]
+}
